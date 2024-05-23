@@ -2,6 +2,8 @@
 Github repository for the AI Lab project.
 Use this video:
 https://www.youtube.com/watch?v=neBZ6huolkg
+Data set: 
+https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout/data?select=clips
 
 From this video, we will split the job like this:
   - Mihnea: Use ultralytics and YOLOv8 to detect objects in images and videos.
